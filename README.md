@@ -24,7 +24,7 @@ Music&me Chatbot Song Recommender System
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#Acknowledgements">Usage</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
   
